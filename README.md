@@ -1,1 +1,1 @@
-# Github-Python-Jira
+# GitHub-Python-Jira
