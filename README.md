@@ -1,6 +1,6 @@
 # GitHub-Python-Jira
 
-![m](https://github.com/user-attachments/assets/3d97c750-96f1-45db-b7e6-66c945a8d5ec)
+![m](https://github.com/user-attachments/assets/895aa33a-9330-47a3-8fb0-9155acdf09d7)
 
 
 # Automated Jira Story Creation from GitHub Issues
