@@ -1,5 +1,8 @@
 # GitHub-Python-Jira
 
+![m](https://github.com/user-attachments/assets/3d97c750-96f1-45db-b7e6-66c945a8d5ec)
+
+
 # Automated Jira Story Creation from GitHub Issues
 
 This project is a Flask application that automates the creation of Jira stories when comments are made on GitHub repository issues. It uses the [`requests`](http://docs.python-requests.org) library to interact with the Jira API and create issues based on the provided payload.
